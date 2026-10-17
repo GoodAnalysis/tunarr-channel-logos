@@ -22,3 +22,20 @@ Each channel's icon in Tunarr points at the file's raw URL:
 
 The transparent versions blend into the iOS app, so those are the ones in use.
 Plex apps cache logos: force-quit and reopen them after changing one.
+
+## Dad's channels
+
+The `bob_` files are for the channels on Dad's media server.
+
+| # | Channel | Logo |
+|---|---|---|
+| 1 | Vintage | `bob_vintage.png` |
+| 2 | British | `bob_british.png` |
+| 3 | Comedy | `bob_comedy.png` |
+| 4 | Drama | `bob_drama.png` |
+| 5 | War & History | `bob_war.png` |
+| 6 | Film Noir | `bob_noir.png` |
+| 7 | Musicals | `bob_musical.png` |
+| 8 | Westerns | `bob_western.png` |
+| 9 | Action | `bob_action.png` |
+| 10 | Epic Series | `bob_epic.png` |
